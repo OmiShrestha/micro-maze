@@ -29,7 +29,7 @@ Python scripts communicate with the MicroMouse via serial communication, sending
 ## 🔗 Project Link
 
 [**Click here to view the full project repository**](#)  
-*(Link to be added later)*
+*https://new.express.adobe.com/page/vMDLXjAWCR1RW/*
 
 ## 📹 YouTube Demo
 
