@@ -35,7 +35,7 @@ Python scripts communicate with the MicroMouse via serial communication, sending
 
 Watch a demo of the MicroMouse solving a maze here:  
 [**Watch on YouTube**](#)  
-*(https://youtu.be/4_IVPnVezGw?si=qDQLl0rgU6EE_D3C)*
+*https://youtu.be/4_IVPnVezGw?si=qDQLl0rgU6EE_D3C*
 
 ## 📝 Setup & Usage
 
