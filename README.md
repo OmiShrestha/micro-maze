@@ -1,4 +1,4 @@
-# MicroMouse Maze Solver
+# Micro-mouse Maze Solver
 
 This project involves programming a **MicroMouse** robot using **Python** to autonomously navigate through a maze. The goal of the MicroMouse is to reach the center of a maze as quickly and efficiently as possible by utilizing sensors, algorithms, and real-time decision making.
 
@@ -37,7 +37,7 @@ Watch a demo of the MicroMouse solving a maze here:
 [**Watch on YouTube**](#)  
 *https://youtu.be/4_IVPnVezGw?si=qDQLl0rgU6EE_D3C*
 
-## 📝 Setup & Usage
+## Setup & Usage
 
 1. Clone this repository:
    ```bash
