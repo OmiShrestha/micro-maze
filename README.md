@@ -40,6 +40,6 @@ Watch a demo of the MicroMouse solving a maze here:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/OmiShrestha/micro-mouse.git
+   git clone https://github.com/OmiShrestha/micro-maze.git
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
